@@ -1,0 +1,30 @@
+@charset "UTF-8";
+.container header {
+    background-color: #F4B854;
+}
+.container header nav {
+    background-color: #FFB539;
+}
+.container #hero {
+    background-image: url(images/Big-img.png);
+}
+.container #about {
+    background-image: -webkit-linear-gradient(270deg,rgba(250,221,174,1.00) 0.23%,rgba(255,255,255,1.00) 99.88%);
+    background-image: -moz-linear-gradient(270deg,rgba(250,221,174,1.00) 0.23%,rgba(255,255,255,1.00) 99.88%);
+    background-image: -o-linear-gradient(270deg,rgba(250,221,174,1.00) 0.23%,rgba(255,255,255,1.00) 99.88%);
+    background-image: linear-gradient(180deg,rgba(250,221,174,1.00) 0.23%,rgba(255,255,255,1.00) 99.88%);
+    text-align: center;
+}
+.container .banner {
+    background-image: url(images/parallax.png);
+}
+.container #contact {
+    background-image: url(images/logo.png);
+}
+.container #contact .button {
+    background-color: #FADDAD;
+    color: #382E20;
+}
+.container .copyright {
+    background-color: #FDC656;
+}
